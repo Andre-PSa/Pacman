@@ -1,0 +1,8 @@
+PASSO 20
+POS 4 4
+W
+W
+A
+A
+S
+S

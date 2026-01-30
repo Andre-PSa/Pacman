@@ -1,0 +1,14 @@
+DIM 10 10
+TEMPO 10
+PAC test2.p
+MON test2_m1.m test2_m2.m
+XXXXXXXXXX
+XoooooXooX
+XXXoXXXooX
+XooooooooX
+XoXXXXXXoX
+XoXooooXoX
+XoXoXXoXoX
+XoooXooooX
+XXXXXXXo@X
+XXXXXXXXXX
